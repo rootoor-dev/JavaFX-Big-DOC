@@ -1,4 +1,12 @@
+/*
+-- Les actions 
 
+FERMER
+AGRANDIR
+REDUIRE
+et bien d'autres
+
+*/
 
 @FXML
 private void Minimize_clicked(MouseEvent event) {
